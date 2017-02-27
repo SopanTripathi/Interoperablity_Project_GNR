@@ -1,0 +1,74 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	text-align: center;
+	font-family: verdana, sans-serif;
+}
+
+#header {
+    padding:5px;
+    background-color:white;
+}
+
+#headertext {
+	font-size:14px;
+    background-color:green;
+    color:white;
+    text-align:center;	 	 
+}
+
+
+.gwt-button {
+	padding: 5px 5px 5px 25px;
+	border: 10px solid #666;
+	color: red;
+	text-decoration: none;
+}
+
+
+.gwt-centralsection {
+    background-color:#eeeeee;
+    width:600px;
+    height:600px;     
+}
+
+
+
+#footer {
+	font-size:14px;
+    background-color:green;
+    color:white;
+    clear:both;
+    text-align:center; 	 
+}
+
+
+
+#map 
+{
+  width: 500px;
+  height: 400px;
+  background-color: #CCC;
+}
+      
+#mytext {
+	font-size: 100%;
+	text-align: Right;
+	font-style: italic;
+}
+
+.gwt-h1{
+	font-size: 20px;
+	font-weight: bold;
+	text-align:center;
+}
+
+.gwt-Big-Text {
+	font-size: 150%;
+}
+
+.gwt-Image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
